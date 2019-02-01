@@ -1,0 +1,19 @@
+{
+  "name": "@happyguestmx/guestapp-utilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaeh1/happyguestmx-guestapp-utilities.git"
+  },
+  "author": "Rafael Hernández Larios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaeh1/happyguestmx-guestapp-utilities/issues"
+  },
+  "homepage": "https://github.com/rafaeh1/happyguestmx-guestapp-utilities#readme"
+}
